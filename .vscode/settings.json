@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "hooks": true,
+        "node_modules": true,
+        "platforms": true
+    },
+    "files.watcherExclude": {
+        "**/platforms/**": true
+    },
+    "[typescript]": {
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.formatOnSave": true
+    },
+    "[scss]": {
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true
+    }
+}
