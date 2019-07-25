@@ -2,10 +2,10 @@
   "nativescript": {
     "id": "org.nativescript.tnsexoplayertest",
     "tns-android": {
-      "version": "5.4.0"
+      "version": "6.0.0"
     },
     "tns-ios": {
-      "version": "5.4.2"
+      "version": "6.0.1"
     }
   },
   "description": "NativeScript Application",
@@ -25,19 +25,19 @@
     "nativescript-theme-core": "~1.0.4",
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.5.0",
-    "tns-core-modules": "~5.4.0",
+    "tns-core-modules": "6.0.1",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
     "@angular/compiler-cli": "~8.0.0",
     "@ngtools/webpack": "~8.0.0",
-    "nativescript-dev-typescript": "~0.10.0",
-    "nativescript-dev-webpack": "~0.24.0",
+    "nativescript-dev-webpack": "1.0.1",
     "prettier": "^1.18.2",
     "prettier-check": "^2.0.0",
-    "tns-platform-declarations": "^5.4.3",
+    "tns-platform-declarations": "6.0.1",
     "tslint": "^5.18.0",
-    "tslint-no-circular-imports": "^0.7.0"
+    "tslint-no-circular-imports": "^0.7.0",
+    "typescript": "3.4.5"
   },
   "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
   "readme": "NativeScript Application"
