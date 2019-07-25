@@ -12,6 +12,7 @@
 
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 	<uses-permission android:name="android.permission.INTERNET"/>
 
 	<application
@@ -35,5 +36,10 @@
 			</intent-filter>
 		</activity>
 		<activity android:name="com.tns.ErrorReportActivity"/>
+
+        <service android:name="dk.mabs.BackgroundService"
+                        android:permission="android.permission.BIND_JOB_SERVICE"
+                        android:enabled="true"
+                        android:exported="false" />
 	</application>
 </manifest>
