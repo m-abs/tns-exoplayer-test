@@ -56,6 +56,26 @@ if (isAndroid) {
     console.log('startService');
     context.startService(intent);
   });
+
+  for (const [key, eventName] of Object.entries(nsApp)) {
+    if (!key.endsWith('Event') || typeof eventName !== 'string') {
+      continue;
+    }
+
+    nsApp.on(eventName, (evt) => {
+      console.log(`TNS - event - ${eventName}`);
+    });
+  }
+
+  for (const [key, eventName] of Object.entries(nsApp.AndroidApplication)) {
+    if (!key.endsWith('Event') || typeof eventName !== 'string') {
+      continue;
+    }
+
+    nsApp.android.on(eventName, (evt) => {
+      console.log(`TNS<android> - event - ${eventName}`);
+    });
+  }
 }
 
 @NgModule({

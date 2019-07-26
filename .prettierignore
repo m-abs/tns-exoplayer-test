@@ -1,1 +1,4 @@
 **/*.d.ts
+!src/exoplayer.d.ts
+**/tmp/**/*
+src/client/scss/_sprites.scss
