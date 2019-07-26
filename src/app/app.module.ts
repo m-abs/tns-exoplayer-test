@@ -57,6 +57,13 @@ if (isAndroid) {
     context.startService(intent);
   });
 
+  nsApp.on(nsApp.exitEvent, () => {
+    const context = utils.ad.getApplicationContext();
+    const intent = new android.content.Intent(context, dk.mabs.BackgroundService.class);
+    console.log('stopService');
+    context.stopService(intent);
+  });
+
   for (const [key, eventName] of Object.entries(nsApp)) {
     if (!key.endsWith('Event') || typeof eventName !== 'string') {
       continue;

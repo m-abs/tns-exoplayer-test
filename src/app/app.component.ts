@@ -129,7 +129,7 @@ export class AppComponent implements OnInit, OnDestroy {
           break;
         }
         case exoplayer2.Player.STATE_READY: {
-          console.log(`onPlayerStateChanged(${playWhenReady}, ${playbackState}). State = 'buffering'`);
+          console.log(`onPlayerStateChanged(${playWhenReady}, ${playbackState}). State = 'ready'`);
           break;
         }
         default: {
@@ -252,11 +252,6 @@ export class AppComponent implements OnInit, OnDestroy {
         .setTag(url)
         .createMediaSource(android.net.Uri.parse(url));
 
-      /*
-      const mediaSource = new exoplayer2.source.ExtractorMediaSource.Factory(new exoplayer2.upstream.DefaultDataSourceFactory(this.context, userAgent))
-        .setExtractorsFactory(new exoplayer2.extractor.DefaultExtractorsFactory())
-        .createMediaSource(android.net.Uri.parse(url));
- */
       this.concatenatedSource.addMediaSource(mediaSource);
     }
 
@@ -266,7 +261,7 @@ export class AppComponent implements OnInit, OnDestroy {
 
     global['exoPlayer'] = this.exoPlayer;
     global['concatenatedSource'] = this.concatenatedSource;
-    /*
+
     this.interval = setInterval(() => {
       if (!this.exoPlayer.getPlayWhenReady()) {
         return;
@@ -274,12 +269,14 @@ export class AppComponent implements OnInit, OnDestroy {
 
       const currentPosition = this.exoPlayer.getCurrentPosition();
       const duration = this.exoPlayer.getDuration();
+      const currentTag = this.exoPlayer.getCurrentTag();
       console.log({
         currentPosition,
         duration,
+        currentTag,
         pct: Number((currentPosition / duration) * 100).toFixed(2),
       });
-    }, 250); */
+    }, 250);
   }
 
   ngOnDestroy(): void {
