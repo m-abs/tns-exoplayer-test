@@ -6181,6 +6181,424 @@ declare module com {
     export module google {
         export module android {
             export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class BuildConfig {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.BuildConfig>;
+                            public static DEBUG: boolean;
+                            public static APPLICATION_ID: string;
+                            public static BUILD_TYPE: string;
+                            public static FLAVOR: string;
+                            public static VERSION_CODE: number;
+                            public static VERSION_NAME: string;
+                            public constructor();
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class CastPlayer extends com.google.android.exoplayer2.BasePlayer {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastPlayer>;
+                            public next(): void;
+                            public getShuffleModeEnabled(): boolean;
+                            public previous(): void;
+                            public getApplicationLooper(): globalAndroid.os.Looper;
+                            public addItems(
+                                param0: number,
+                                param1: native.Array<com.google.android.gms.cast.MediaQueueItem>,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public getCurrentTimeline(): com.google.android.exoplayer2.Timeline;
+                            public getCurrentManifest(): any;
+                            public getCurrentTrackSelections(): com.google.android.exoplayer2.trackselection.TrackSelectionArray;
+                            public getPreviousWindowIndex(): number;
+                            public addItems(
+                                param0: native.Array<com.google.android.gms.cast.MediaQueueItem>,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public getPlayWhenReady(): boolean;
+                            public getRendererType(param0: number): number;
+                            public stop(): void;
+                            public isCurrentWindowSeekable(): boolean;
+                            public hasPrevious(): boolean;
+                            public getNextWindowIndex(): number;
+                            public getDuration(): number;
+                            public getMetadataComponent(): com.google.android.exoplayer2.Player.MetadataComponent;
+                            public getItem(param0: number): com.google.android.gms.cast.MediaQueueItem;
+                            public getVideoComponent(): com.google.android.exoplayer2.Player.VideoComponent;
+                            public getCurrentWindowIndex(): number;
+                            public setRepeatMode(param0: number): void;
+                            public isLoading(): boolean;
+                            public release(): void;
+                            public isCastSessionAvailable(): boolean;
+                            public getContentPosition(): number;
+                            public constructor(param0: com.google.android.gms.cast.framework.CastContext);
+                            public getBufferedPosition(): number;
+                            public getContentDuration(): number;
+                            public getPlaybackError(): com.google.android.exoplayer2.ExoPlaybackException;
+                            public seekToDefaultPosition(): void;
+                            public getTextComponent(): com.google.android.exoplayer2.Player.TextComponent;
+                            public removeItem(
+                                param0: number,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public removeListener(param0: com.google.android.exoplayer2.Player.EventListener): void;
+                            public setSessionAvailabilityListener(param0: com.google.android.exoplayer2.ext.cast.SessionAvailabilityListener): void;
+                            public getCurrentPeriodIndex(): number;
+                            public loadItems(
+                                param0: native.Array<com.google.android.gms.cast.MediaQueueItem>,
+                                param1: number,
+                                param2: number,
+                                param3: number,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public getContentBufferedPosition(): number;
+                            public getCurrentTag(): any;
+                            public setShuffleModeEnabled(param0: boolean): void;
+                            public getRendererCount(): number;
+                            public getCurrentPosition(): number;
+                            public loadItem(
+                                param0: com.google.android.gms.cast.MediaQueueItem,
+                                param1: number,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public stop(param0: boolean): void;
+                            public getTotalBufferedDuration(): number;
+                            public setPlaybackParameters(param0: com.google.android.exoplayer2.PlaybackParameters): void;
+                            public isCurrentWindowDynamic(): boolean;
+                            public addListener(param0: com.google.android.exoplayer2.Player.EventListener): void;
+                            public constructor();
+                            public moveItem(
+                                param0: number,
+                                param1: number,
+                            ): com.google.android.gms.common.api.PendingResult<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            >;
+                            public getAudioComponent(): com.google.android.exoplayer2.Player.AudioComponent;
+                            public hasNext(): boolean;
+                            public updateInternalState(): void;
+                            public getRepeatMode(): number;
+                            public getCurrentAdIndexInAdGroup(): number;
+                            public setPlayWhenReady(param0: boolean): void;
+                            public seekToDefaultPosition(param0: number): void;
+                            public seekTo(param0: number): void;
+                            public getPlaybackState(): number;
+                            public isPlayingAd(): boolean;
+                            public getPlaybackParameters(): com.google.android.exoplayer2.PlaybackParameters;
+                            public getCurrentTrackGroups(): com.google.android.exoplayer2.source.TrackGroupArray;
+                            public getCurrentAdGroupIndex(): number;
+                            public getBufferedPercentage(): number;
+                            public seekTo(param0: number, param1: number): void;
+                        }
+                        export module CastPlayer {
+                            export class ListenerNotificationTask {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastPlayer.ListenerNotificationTask>;
+                                public execute(): void;
+                            }
+                            export class SeekResultCallback extends com.google.android.gms.common.api.ResultCallback<
+                                com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult
+                            > {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastPlayer.SeekResultCallback>;
+                                public onResult(param0: com.google.android.gms.cast.framework.media.RemoteMediaClient.MediaChannelResult): void;
+                            }
+                            export class StatusListener extends java.lang.Object {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastPlayer.StatusListener>;
+                                public onSessionStarted(param0: com.google.android.gms.cast.framework.CastSession, param1: string): void;
+                                public onAdBreakStatusUpdated(): void;
+                                public onSessionResuming(param0: com.google.android.gms.cast.framework.CastSession, param1: string): void;
+                                public onSessionEnding(param0: com.google.android.gms.cast.framework.CastSession): void;
+                                public onMetadataUpdated(): void;
+                                public onQueueStatusUpdated(): void;
+                                public onSessionStartFailed(param0: com.google.android.gms.cast.framework.CastSession, param1: number): void;
+                                public onSessionEnded(param0: com.google.android.gms.cast.framework.CastSession, param1: number): void;
+                                public onPreloadStatusUpdated(): void;
+                                public onSendingRemoteMediaRequest(): void;
+                                public onProgressUpdated(param0: number, param1: number): void;
+                                public onSessionResumed(param0: com.google.android.gms.cast.framework.CastSession, param1: boolean): void;
+                                public onStatusUpdated(): void;
+                                public onSessionSuspended(param0: com.google.android.gms.cast.framework.CastSession, param1: number): void;
+                                public onSessionResumeFailed(param0: com.google.android.gms.cast.framework.CastSession, param1: number): void;
+                                public onSessionStarting(param0: com.google.android.gms.cast.framework.CastSession): void;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class CastTimeline extends com.google.android.exoplayer2.Timeline {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastTimeline>;
+                            public static EMPTY_CAST_TIMELINE: com.google.android.exoplayer2.ext.cast.CastTimeline;
+                            public constructor();
+                            public getWindowCount(): number;
+                            public getIndexOfPeriod(param0: any): number;
+                            public hashCode(): number;
+                            public getPeriodCount(): number;
+                            public getUidOfPeriod(param0: number): java.lang.Integer;
+                            public getWindow(
+                                param0: number,
+                                param1: com.google.android.exoplayer2.Timeline.Window,
+                            ): com.google.android.exoplayer2.Timeline.Window;
+                            public constructor(
+                                param0: native.Array<number>,
+                                param1: globalAndroid.util.SparseArray<com.google.android.exoplayer2.ext.cast.CastTimeline.ItemData>,
+                            );
+                            public getWindow(
+                                param0: number,
+                                param1: com.google.android.exoplayer2.Timeline.Window,
+                                param2: boolean,
+                            ): com.google.android.exoplayer2.Timeline.Window;
+                            public getPeriod(
+                                param0: number,
+                                param1: com.google.android.exoplayer2.Timeline.Period,
+                                param2: boolean,
+                            ): com.google.android.exoplayer2.Timeline.Period;
+                            public equals(param0: any): boolean;
+                            public getUidOfPeriod(param0: number): any;
+                            public getWindow(
+                                param0: number,
+                                param1: com.google.android.exoplayer2.Timeline.Window,
+                                param2: boolean,
+                                param3: number,
+                            ): com.google.android.exoplayer2.Timeline.Window;
+                            public getPeriod(
+                                param0: number,
+                                param1: com.google.android.exoplayer2.Timeline.Period,
+                            ): com.google.android.exoplayer2.Timeline.Period;
+                        }
+                        export module CastTimeline {
+                            export class ItemData {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastTimeline.ItemData>;
+                                public static EMPTY: com.google.android.exoplayer2.ext.cast.CastTimeline.ItemData;
+                                public durationUs: number;
+                                public defaultPositionUs: number;
+                                public copyWithDefaultPositionUs(param0: number): com.google.android.exoplayer2.ext.cast.CastTimeline.ItemData;
+                                public constructor(param0: number, param1: number);
+                                public copyWithDurationUs(param0: number): com.google.android.exoplayer2.ext.cast.CastTimeline.ItemData;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class CastTimelineTracker {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastTimelineTracker>;
+                            public constructor();
+                            public getCastTimeline(
+                                param0: com.google.android.gms.cast.framework.media.RemoteMediaClient,
+                            ): com.google.android.exoplayer2.ext.cast.CastTimeline;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class CastUtils {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.CastUtils>;
+                            public static mediaTrackToFormat(param0: com.google.android.gms.cast.MediaTrack): com.google.android.exoplayer2.Format;
+                            public static getStreamDurationUs(param0: com.google.android.gms.cast.MediaInfo): number;
+                            public static getLogString(param0: number): string;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class DefaultCastOptionsProvider {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.DefaultCastOptionsProvider>;
+                            public constructor();
+                            public getCastOptions(param0: globalAndroid.content.Context): com.google.android.gms.cast.framework.CastOptions;
+                            public getAdditionalSessionProviders(
+                                param0: globalAndroid.content.Context,
+                            ): java.util.List<com.google.android.gms.cast.framework.SessionProvider>;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class MediaItem {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.MediaItem>;
+                            public uuid: java.util.UUID;
+                            public title: string;
+                            public description: string;
+                            public media: com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle;
+                            public attachment: any;
+                            public drmSchemes: java.util.List<com.google.android.exoplayer2.ext.cast.MediaItem.DrmScheme>;
+                            public startPositionUs: number;
+                            public endPositionUs: number;
+                            public mimeType: string;
+                            public hashCode(): number;
+                            public equals(param0: any): boolean;
+                        }
+                        export module MediaItem {
+                            export class Builder {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.MediaItem.Builder>;
+                                public setAttachment(param0: any): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setDescription(param0: string): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public constructor();
+                                public setMedia(
+                                    param0: com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle,
+                                ): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setDrmSchemes(
+                                    param0: java.util.List<com.google.android.exoplayer2.ext.cast.MediaItem.DrmScheme>,
+                                ): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setEndPositionUs(param0: number): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setMedia(param0: string): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setStartPositionUs(param0: number): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setMimeType(param0: string): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public clear(): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public build(): com.google.android.exoplayer2.ext.cast.MediaItem;
+                                public setUuid(param0: java.util.UUID): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public setTitle(param0: string): com.google.android.exoplayer2.ext.cast.MediaItem.Builder;
+                                public buildAndClear(): com.google.android.exoplayer2.ext.cast.MediaItem;
+                            }
+                            export class DrmScheme {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.MediaItem.DrmScheme>;
+                                public uuid: java.util.UUID;
+                                public licenseServer: com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle;
+                                public equals(param0: any): boolean;
+                                public hashCode(): number;
+                                public constructor(param0: java.util.UUID, param1: com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle);
+                            }
+                            export class UriBundle {
+                                public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle>;
+                                public static EMPTY: com.google.android.exoplayer2.ext.cast.MediaItem.UriBundle;
+                                public uri: globalAndroid.net.Uri;
+                                public requestHeaders: java.util.Map<string, string>;
+                                public constructor(param0: globalAndroid.net.Uri);
+                                public equals(param0: any): boolean;
+                                public constructor(param0: globalAndroid.net.Uri, param1: java.util.Map<string, string>);
+                                public hashCode(): number;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class MediaItemQueue {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.MediaItemQueue>;
+                            /**
+                             * Constructs a new instance of the com.google.android.exoplayer2.ext.cast.MediaItemQueue interface with the provided implementation. An empty constructor exists calling super() when extending the interface class.
+                             */
+                            public constructor(implementation: {
+                                get(param0: number): com.google.android.exoplayer2.ext.cast.MediaItem;
+                                getSize(): number;
+                                add(param0: native.Array<com.google.android.exoplayer2.ext.cast.MediaItem>): void;
+                                add(param0: number, param1: native.Array<com.google.android.exoplayer2.ext.cast.MediaItem>): void;
+                                move(param0: number, param1: number): void;
+                                remove(param0: number): void;
+                                removeRange(param0: number, param1: number): void;
+                                clear(): void;
+                            });
+                            public constructor();
+                            public add(param0: native.Array<com.google.android.exoplayer2.ext.cast.MediaItem>): void;
+                            public getSize(): number;
+                            public remove(param0: number): void;
+                            public get(param0: number): com.google.android.exoplayer2.ext.cast.MediaItem;
+                            public add(param0: number, param1: native.Array<com.google.android.exoplayer2.ext.cast.MediaItem>): void;
+                            public move(param0: number, param1: number): void;
+                            public clear(): void;
+                            public removeRange(param0: number, param1: number): void;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
+                export module ext {
+                    export module cast {
+                        export class SessionAvailabilityListener {
+                            public static class: java.lang.Class<com.google.android.exoplayer2.ext.cast.SessionAvailabilityListener>;
+                            /**
+                             * Constructs a new instance of the com.google.android.exoplayer2.ext.cast.SessionAvailabilityListener interface with the provided implementation. An empty constructor exists calling super() when extending the interface class.
+                             */
+                            public constructor(implementation: { onCastSessionAvailable(): void; onCastSessionUnavailable(): void });
+                            public constructor();
+                            public onCastSessionAvailable(): void;
+                            public onCastSessionUnavailable(): void;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+declare module com {
+    export module google {
+        export module android {
+            export module exoplayer2 {
                 export module extractor {
                     export abstract class BinarySearchSeeker {
                         public static class: java.lang.Class<com.google.android.exoplayer2.extractor.BinarySearchSeeker>;

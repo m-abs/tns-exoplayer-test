@@ -4,6 +4,7 @@ import { Component, OnDestroy, OnInit } from '@angular/core';
 import * as utils from 'tns-core-modules/utils/utils';
 
 // Reading https://www.raywenderlich.com/5573-media-playback-on-android-with-exoplayer-getting-started
+// https://android.jlelse.eu/sending-media-to-chromecast-has-never-been-easier-c331eeef1e0a
 
 const exoplayer2 = com.google.android.exoplayer2;
 
