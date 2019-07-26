@@ -27,6 +27,7 @@ export class AppComponent implements OnInit, OnDestroy {
   private playerListener = new exoplayer2.Player.EventListener({
     /**
      * Called when the timeline and/or manifest has been refreshed.
+     *
      * Note that if the timeline has changed then a position discontinuity may also have occurred.
      * For example, the current period index may have changed as a result of periods being added or removed from the timeline.
      * This will not be reported via a separate call to onPositionDiscontinuity(int).
@@ -35,7 +36,7 @@ export class AppComponent implements OnInit, OnDestroy {
      * @param manifest The latest manifest. May be null
      * @param reason The Player.TimelineChangeReason responsible for this timeline change
      */
-    onTimelineChanged(Timeline: com.google.android.exoplayer2.Timeline, manifest: any, reason: number) {
+    onTimelineChanged(timeline: com.google.android.exoplayer2.Timeline, manifest: any, reason: number) {
       switch (reason) {
         case exoplayer2.Player.TIMELINE_CHANGE_REASON_PREPARED: {
           console.log(`onTimelineChanged - reason = "prepared"`);
