@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:01:04.109" />
+    <meta name="ncc:timeInThisSmil" content="00:00:04.060" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="4.060s">
+      <par id="par1" endsync="last">
+        <text id="soze00034" src="INFAE20160002.html#soze00034" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=1.470s" src="04_Referent.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00036" src="INFAE20160002.html#soze00036" />
+        <audio id="aud002" clip-begin="npt=1.470s" clip-end="npt=4.060s" src="04_Referent.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

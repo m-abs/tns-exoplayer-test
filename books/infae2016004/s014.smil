@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:08:27.635" />
+    <meta name="ncc:timeInThisSmil" content="00:00:43.367" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="43.367s">
+      <par id="par1" endsync="last">
+        <text id="soze00101" src="INFAE20160002.html#soze00101" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=3.180s" src="14_Billede.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="d6328s" src="INFAE20160002.html#d6328s" />
+        <audio id="aud002" clip-begin="npt=3.180s" clip-end="npt=6.390s" src="14_Billede.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="tw1b1v" src="INFAE20160002.html#tw1b1v" />
+        <audio id="aud003" clip-begin="npt=6.390s" clip-end="npt=10.759s" src="14_Billede.mp3" />
+      </par>
+      <par id="par4" endsync="last">
+        <text id="soze00105" src="INFAE20160002.html#soze00105" />
+        <audio id="aud004" clip-begin="npt=10.759s" clip-end="npt=18.969s" src="14_Billede.mp3" />
+      </par>
+      <par id="par5" endsync="last">
+        <text id="soze00107" src="INFAE20160002.html#soze00107" />
+        <audio id="aud005" clip-begin="npt=18.969s" clip-end="npt=29.008s" src="14_Billede.mp3" />
+      </par>
+      <par id="par6" endsync="last">
+        <text id="soze00109" src="INFAE20160002.html#soze00109" />
+        <audio id="aud006" clip-begin="npt=29.008s" clip-end="npt=35.698s" src="14_Billede.mp3" />
+      </par>
+      <par id="par7" endsync="last">
+        <text id="soze00110" src="INFAE20160002.html#soze00110" />
+        <audio id="aud007" clip-begin="npt=35.698s" clip-end="npt=39.497s" src="14_Billede.mp3" />
+      </par>
+      <par id="par8" endsync="last">
+        <text id="soze00111" src="INFAE20160002.html#soze00111" />
+        <audio id="aud008" clip-begin="npt=39.497s" clip-end="npt=43.367s" src="14_Billede.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

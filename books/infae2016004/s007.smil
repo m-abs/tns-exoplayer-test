@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:02:43.321" />
+    <meta name="ncc:timeInThisSmil" content="00:02:13.795" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="133.795s">
+      <par id="par1" endsync="last">
+        <text id="soze00063" src="INFAE20160002.html#soze00063" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=5.400s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00064" src="INFAE20160002.html#soze00064" />
+        <audio id="aud002" clip-begin="npt=5.400s" clip-end="npt=7.710s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="soze00065" src="INFAE20160002.html#soze00065" />
+        <audio id="aud003" clip-begin="npt=7.710s" clip-end="npt=39.408s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par4" endsync="last">
+        <text id="soze00066" src="INFAE20160002.html#soze00066" />
+        <audio id="aud004" clip-begin="npt=39.408s" clip-end="npt=59.120s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par5" endsync="last">
+        <text id="soze00067" src="INFAE20160002.html#soze00067" />
+        <audio id="aud005" clip-begin="npt=59.120s" clip-end="npt=71.689s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par6" endsync="last">
+        <text id="soze00069" src="INFAE20160002.html#soze00069" />
+        <audio id="aud006" clip-begin="npt=71.689s" clip-end="npt=92.938s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+      <par id="par7" endsync="last">
+        <text id="soze00070" src="INFAE20160002.html#soze00070" />
+        <audio id="aud007" clip-begin="npt=92.938s" clip-end="npt=133.795s" src="07_Ad_2_Notas_konomi_2016.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

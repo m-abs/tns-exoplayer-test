@@ -1,0 +1,2123 @@
+{
+  "format": "0.1.0",
+  "volumes": [
+    {
+      "navigation": {
+        "metadata": {
+          "dc:date": [
+            "2016-02-18"
+          ],
+          "dc:format": [
+            "Daisy 2.02"
+          ],
+          "dc:identifier": [
+            "DK-NOTA-INFÆ20160002"
+          ],
+          "dc:language": [
+            "da"
+          ],
+          "dc:publisher": [
+            "Nota"
+          ],
+          "dc:title": [
+            "INFÆ20160002"
+          ],
+          "ncc:charset": [
+            "utf-8"
+          ],
+          "ncc:depth": [
+            "2"
+          ],
+          "ncc:files": [
+            "40"
+          ],
+          "ncc:generator": [
+            "Hindenburg ABC Studio 1.17.2066"
+          ],
+          "ncc:maxPageNormal": [
+            "0"
+          ],
+          "ncc:multimediaType": [
+            "audioFullText"
+          ],
+          "ncc:narrator": [
+            "Stine Duus Svendsen"
+          ],
+          "ncc:pageFront": [
+            "0"
+          ],
+          "ncc:pageNormal": [
+            "0"
+          ],
+          "ncc:pageSpecial": [
+            "0"
+          ],
+          "ncc:tocItems": [
+            "17"
+          ],
+          "ncc:totalTime": [
+            "00:11:41"
+          ]
+        },
+        "navigation": [
+          {
+            "fragment": "soze00003",
+            "level": 1,
+            "smil": "s001.smil",
+            "title": "Brugerkomitéen ved Nota - Referat af 81. møde",
+            "type": "title"
+          },
+          {
+            "fragment": "soze00007",
+            "level": 1,
+            "smil": "s002.smil",
+            "title": "Til stede:",
+            "type": ""
+          },
+          {
+            "fragment": "soze00028",
+            "level": 1,
+            "smil": "s003.smil",
+            "title": "Afbud:",
+            "type": ""
+          },
+          {
+            "fragment": "soze00034",
+            "level": 1,
+            "smil": "s004.smil",
+            "title": "Referent:",
+            "type": ""
+          },
+          {
+            "fragment": "soze00038",
+            "level": 1,
+            "smil": "s005.smil",
+            "title": "Dagsorden:",
+            "type": "part"
+          },
+          {
+            "fragment": "soze00060",
+            "level": 1,
+            "smil": "s006.smil",
+            "title": "Ad 1. Godkendelse af dagsorden",
+            "type": "part"
+          },
+          {
+            "fragment": "soze00063",
+            "level": 1,
+            "smil": "s007.smil",
+            "title": "Ad 2. Notas økonomi 2016-",
+            "type": ""
+          },
+          {
+            "fragment": "soze00073",
+            "level": 1,
+            "smil": "s008.smil",
+            "title": "Ad 3. Initiativer - opfølgning på Brugerundersøgelsen 2014",
+            "type": ""
+          },
+          {
+            "fragment": "soze00078",
+            "level": 2,
+            "smil": "s009.smil",
+            "title": "Konklusion:",
+            "type": ""
+          },
+          {
+            "fragment": "soze00081",
+            "level": 1,
+            "smil": "s010.smil",
+            "title": "Ad 4. Notas Ambassadørnetværk",
+            "type": ""
+          },
+          {
+            "fragment": "soze00088",
+            "level": 2,
+            "smil": "s011.smil",
+            "title": "Konklusion:",
+            "type": ""
+          },
+          {
+            "fragment": "soze00092",
+            "level": 1,
+            "smil": "s012.smil",
+            "title": "Ad 7. Mødedatoer for 2016",
+            "type": ""
+          },
+          {
+            "fragment": "soze00096",
+            "level": 1,
+            "smil": "s013.smil",
+            "title": "Ad 8. Eventuelt",
+            "type": ""
+          },
+          {
+            "fragment": "soze00101",
+            "level": 1,
+            "smil": "s014.smil",
+            "title": "Billede",
+            "type": ""
+          },
+          {
+            "fragment": "soze00113",
+            "level": 1,
+            "smil": "s015.smil",
+            "title": "Tabel",
+            "type": ""
+          },
+          {
+            "fragment": "soze00115",
+            "level": 2,
+            "smil": "s016.smil",
+            "title": "regulær tabel",
+            "type": ""
+          },
+          {
+            "fragment": "soze00134",
+            "level": 2,
+            "smil": "s017.smil",
+            "title": "irregulær tabel",
+            "type": ""
+          }
+        ],
+        "playlist": [
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "01_brugerkomit_en_ved_nota_referat_af.mp3",
+                "canBookmark": true,
+                "contentId": "soze00003",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6254,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00003",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:06.254"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:00:00.000"
+              ]
+            },
+            "smil": "s001.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00007",
+                "contentLocalUri": "infae20160002.html",
+                "end": 2310,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00007",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00009",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5930,
+                "id": "par2",
+                "images": null,
+                "start": 2310,
+                "textId": "soze00009",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00011",
+                "contentLocalUri": "infae20160002.html",
+                "end": 9270,
+                "id": "par3",
+                "images": null,
+                "start": 5930,
+                "textId": "soze00011",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00013",
+                "contentLocalUri": "infae20160002.html",
+                "end": 13308,
+                "id": "par4",
+                "images": null,
+                "start": 9270,
+                "textId": "soze00013",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00015",
+                "contentLocalUri": "infae20160002.html",
+                "end": 18608,
+                "id": "par5",
+                "images": null,
+                "start": 13308,
+                "textId": "soze00015",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00017",
+                "contentLocalUri": "infae20160002.html",
+                "end": 21598,
+                "id": "par6",
+                "images": null,
+                "start": 18608,
+                "textId": "soze00017",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00019",
+                "contentLocalUri": "infae20160002.html",
+                "end": 26777,
+                "id": "par7",
+                "images": null,
+                "start": 21598,
+                "textId": "soze00019",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00021",
+                "contentLocalUri": "infae20160002.html",
+                "end": 30027,
+                "id": "par8",
+                "images": null,
+                "start": 26777,
+                "textId": "soze00021",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00022",
+                "contentLocalUri": "infae20160002.html",
+                "end": 32837,
+                "id": "par9",
+                "images": null,
+                "start": 30027,
+                "textId": "soze00022",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00023",
+                "contentLocalUri": "infae20160002.html",
+                "end": 35767,
+                "id": "par10",
+                "images": null,
+                "start": 32837,
+                "textId": "soze00023",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00024",
+                "contentLocalUri": "infae20160002.html",
+                "end": 40006,
+                "id": "par11",
+                "images": null,
+                "start": 35767,
+                "textId": "soze00024",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00025",
+                "contentLocalUri": "infae20160002.html",
+                "end": 44716,
+                "id": "par12",
+                "images": null,
+                "start": 40006,
+                "textId": "soze00025",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "02_til_stede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00026",
+                "contentLocalUri": "infae20160002.html",
+                "end": 48686,
+                "id": "par13",
+                "images": null,
+                "start": 44716,
+                "textId": "soze00026",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:48.686"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:00:06.254"
+              ]
+            },
+            "smil": "s002.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "03_afbud.mp3",
+                "canBookmark": true,
+                "contentId": "soze00028",
+                "contentLocalUri": "infae20160002.html",
+                "end": 1710,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00028",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "03_afbud.mp3",
+                "canBookmark": true,
+                "contentId": "soze00030",
+                "contentLocalUri": "infae20160002.html",
+                "end": 4580,
+                "id": "par2",
+                "images": null,
+                "start": 1710,
+                "textId": "soze00030",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "03_afbud.mp3",
+                "canBookmark": true,
+                "contentId": "soze00031",
+                "contentLocalUri": "infae20160002.html",
+                "end": 9169,
+                "id": "par3",
+                "images": null,
+                "start": 4580,
+                "textId": "soze00031",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:09.169"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:00:54.940"
+              ]
+            },
+            "smil": "s003.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "04_referent.mp3",
+                "canBookmark": true,
+                "contentId": "soze00034",
+                "contentLocalUri": "infae20160002.html",
+                "end": 1470,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00034",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "04_referent.mp3",
+                "canBookmark": true,
+                "contentId": "soze00036",
+                "contentLocalUri": "infae20160002.html",
+                "end": 4060,
+                "id": "par2",
+                "images": null,
+                "start": 1470,
+                "textId": "soze00036",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:04.060"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:01:04.109"
+              ]
+            },
+            "smil": "s004.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00038",
+                "contentLocalUri": "infae20160002.html",
+                "end": 1960,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00038",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00040",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6452,
+                "id": "par2",
+                "images": null,
+                "start": 1960,
+                "textId": "soze00040",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00041",
+                "contentLocalUri": "infae20160002.html",
+                "end": 11915,
+                "id": "par3",
+                "images": null,
+                "start": 6452,
+                "textId": "soze00041",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00042",
+                "contentLocalUri": "infae20160002.html",
+                "end": 18595,
+                "id": "par4",
+                "images": null,
+                "start": 11915,
+                "textId": "soze00042",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00043",
+                "contentLocalUri": "infae20160002.html",
+                "end": 22745,
+                "id": "par5",
+                "images": null,
+                "start": 18595,
+                "textId": "soze00043",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00044",
+                "contentLocalUri": "infae20160002.html",
+                "end": 26614,
+                "id": "par6",
+                "images": null,
+                "start": 22745,
+                "textId": "soze00044",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00046",
+                "contentLocalUri": "infae20160002.html",
+                "end": 32324,
+                "id": "par7",
+                "images": null,
+                "start": 26614,
+                "textId": "soze00046",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00048",
+                "contentLocalUri": "infae20160002.html",
+                "end": 36292,
+                "id": "par8",
+                "images": null,
+                "start": 32324,
+                "textId": "soze00048",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00049",
+                "contentLocalUri": "infae20160002.html",
+                "end": 40632,
+                "id": "par9",
+                "images": null,
+                "start": 36292,
+                "textId": "soze00049",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00050",
+                "contentLocalUri": "infae20160002.html",
+                "end": 44744,
+                "id": "par10",
+                "images": null,
+                "start": 40632,
+                "textId": "soze00050",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00051",
+                "contentLocalUri": "infae20160002.html",
+                "end": 48173,
+                "id": "par11",
+                "images": null,
+                "start": 44744,
+                "textId": "soze00051",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00053",
+                "contentLocalUri": "infae20160002.html",
+                "end": 52893,
+                "id": "par12",
+                "images": null,
+                "start": 48173,
+                "textId": "soze00053",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00054",
+                "contentLocalUri": "infae20160002.html",
+                "end": 56073,
+                "id": "par13",
+                "images": null,
+                "start": 52893,
+                "textId": "soze00054",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00056",
+                "contentLocalUri": "infae20160002.html",
+                "end": 65372,
+                "id": "par14",
+                "images": null,
+                "start": 56073,
+                "textId": "soze00056",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00057",
+                "contentLocalUri": "infae20160002.html",
+                "end": 79912,
+                "id": "par15",
+                "images": null,
+                "start": 65372,
+                "textId": "soze00057",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "05_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00058",
+                "contentLocalUri": "infae20160002.html",
+                "end": 83091,
+                "id": "par16",
+                "images": null,
+                "start": 79912,
+                "textId": "soze00058",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:01:23.091"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:01:08.169"
+              ]
+            },
+            "smil": "s005.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "06_ad_1_godkendelse_af_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00060",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5662,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00060",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "06_ad_1_godkendelse_af_dagsorden.mp3",
+                "canBookmark": true,
+                "contentId": "soze00061",
+                "contentLocalUri": "infae20160002.html",
+                "end": 12061,
+                "id": "par2",
+                "images": null,
+                "start": 5662,
+                "textId": "soze00061",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:12.061"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:02:31.260"
+              ]
+            },
+            "smil": "s006.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00063",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5400,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00063",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00064",
+                "contentLocalUri": "infae20160002.html",
+                "end": 7710,
+                "id": "par2",
+                "images": null,
+                "start": 5400,
+                "textId": "soze00064",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00065",
+                "contentLocalUri": "infae20160002.html",
+                "end": 39408,
+                "id": "par3",
+                "images": null,
+                "start": 7710,
+                "textId": "soze00065",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00066",
+                "contentLocalUri": "infae20160002.html",
+                "end": 59120,
+                "id": "par4",
+                "images": null,
+                "start": 39408,
+                "textId": "soze00066",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00067",
+                "contentLocalUri": "infae20160002.html",
+                "end": 71689,
+                "id": "par5",
+                "images": null,
+                "start": 59120,
+                "textId": "soze00067",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00069",
+                "contentLocalUri": "infae20160002.html",
+                "end": 92938,
+                "id": "par6",
+                "images": null,
+                "start": 71689,
+                "textId": "soze00069",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "07_ad_2_notas_konomi_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00070",
+                "contentLocalUri": "infae20160002.html",
+                "end": 133795,
+                "id": "par7",
+                "images": null,
+                "start": 92938,
+                "textId": "soze00070",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:02:13.795"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:02:43.321"
+              ]
+            },
+            "smil": "s007.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "08_ad_3_initiativer_opf_lgning_p.mp3",
+                "canBookmark": true,
+                "contentId": "soze00073",
+                "contentLocalUri": "infae20160002.html",
+                "end": 7650,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00073",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "08_ad_3_initiativer_opf_lgning_p.mp3",
+                "canBookmark": true,
+                "contentId": "soze00074",
+                "contentLocalUri": "infae20160002.html",
+                "end": 11169,
+                "id": "par2",
+                "images": null,
+                "start": 7650,
+                "textId": "soze00074",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "08_ad_3_initiativer_opf_lgning_p.mp3",
+                "canBookmark": true,
+                "contentId": "soze00075",
+                "contentLocalUri": "infae20160002.html",
+                "end": 46728,
+                "id": "par3",
+                "images": null,
+                "start": 11169,
+                "textId": "soze00075",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:46.728"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:04:57.116"
+              ]
+            },
+            "smil": "s008.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "09_konklusion.mp3",
+                "canBookmark": true,
+                "contentId": "soze00078",
+                "contentLocalUri": "infae20160002.html",
+                "end": 2120,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00078",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "09_konklusion.mp3",
+                "canBookmark": true,
+                "contentId": "soze00079",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6550,
+                "id": "par2",
+                "images": null,
+                "start": 2120,
+                "textId": "soze00079",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:06.550"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:05:43.844"
+              ]
+            },
+            "smil": "s009.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00081",
+                "contentLocalUri": "infae20160002.html",
+                "end": 4899,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00081",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00082",
+                "contentLocalUri": "infae20160002.html",
+                "end": 9181,
+                "id": "par2",
+                "images": null,
+                "start": 4899,
+                "textId": "soze00082",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00083",
+                "contentLocalUri": "infae20160002.html",
+                "end": 40499,
+                "id": "par3",
+                "images": null,
+                "start": 9181,
+                "textId": "soze00083",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00084",
+                "contentLocalUri": "infae20160002.html",
+                "end": 65263,
+                "id": "par4",
+                "images": null,
+                "start": 40499,
+                "textId": "soze00084",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00085",
+                "contentLocalUri": "infae20160002.html",
+                "end": 77462,
+                "id": "par5",
+                "images": null,
+                "start": 65263,
+                "textId": "soze00085",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+                "canBookmark": true,
+                "contentId": "soze00086",
+                "contentLocalUri": "infae20160002.html",
+                "end": 110062,
+                "id": "par6",
+                "images": null,
+                "start": 77462,
+                "textId": "soze00086",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:01:50.062"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:05:50.394"
+              ]
+            },
+            "smil": "s010.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "11_konklusion.mp3",
+                "canBookmark": true,
+                "contentId": "soze00088",
+                "contentLocalUri": "infae20160002.html",
+                "end": 2310,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00088",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "11_konklusion.mp3",
+                "canBookmark": true,
+                "contentId": "soze00089",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6520,
+                "id": "par2",
+                "images": null,
+                "start": 2310,
+                "textId": "soze00089",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "11_konklusion.mp3",
+                "canBookmark": true,
+                "contentId": "soze00090",
+                "contentLocalUri": "infae20160002.html",
+                "end": 8959,
+                "id": "par3",
+                "images": null,
+                "start": 6520,
+                "textId": "soze00090",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:08.959"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:07:40.456"
+              ]
+            },
+            "smil": "s011.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "12_ad_7_m_dedatoer_for_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00092",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5490,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00092",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "12_ad_7_m_dedatoer_for_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00093",
+                "contentLocalUri": "infae20160002.html",
+                "end": 15630,
+                "id": "par2",
+                "images": null,
+                "start": 5490,
+                "textId": "soze00093",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "12_ad_7_m_dedatoer_for_2016.mp3",
+                "canBookmark": true,
+                "contentId": "soze00094",
+                "contentLocalUri": "infae20160002.html",
+                "end": 28830,
+                "id": "par3",
+                "images": null,
+                "start": 15630,
+                "textId": "soze00094",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:28.830"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:07:49.415"
+              ]
+            },
+            "smil": "s012.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "13_ad_8_eventuelt.mp3",
+                "canBookmark": true,
+                "contentId": "soze00096",
+                "contentLocalUri": "infae20160002.html",
+                "end": 3580,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00096",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "13_ad_8_eventuelt.mp3",
+                "canBookmark": true,
+                "contentId": "soze00097",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5460,
+                "id": "par2",
+                "images": null,
+                "start": 3580,
+                "textId": "soze00097",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "13_ad_8_eventuelt.mp3",
+                "canBookmark": true,
+                "contentId": "soze00098",
+                "contentLocalUri": "infae20160002.html",
+                "end": 9390,
+                "id": "par3",
+                "images": null,
+                "start": 5460,
+                "textId": "soze00098",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:09.390"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:08:18.245"
+              ]
+            },
+            "smil": "s013.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00101",
+                "contentLocalUri": "infae20160002.html",
+                "end": 3180,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00101",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "d6328s",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6390,
+                "id": "par2",
+                "images": [
+                  {
+                    "localUri": "images/logo.JPG",
+                    "size": {
+                      "height": 51,
+                      "width": 167
+                    }
+                  }
+                ],
+                "start": 3180,
+                "textId": "d6328s",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "tw1b1v",
+                "contentLocalUri": "infae20160002.html",
+                "end": 10759,
+                "id": "par3",
+                "images": [
+                  {
+                    "localUri": "images/PagesScreenSnapz002.jpg",
+                    "size": {
+                      "height": 457,
+                      "width": 579
+                    }
+                  }
+                ],
+                "start": 6390,
+                "textId": "tw1b1v",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00105",
+                "contentLocalUri": "infae20160002.html",
+                "end": 18969,
+                "id": "par4",
+                "images": null,
+                "start": 10759,
+                "textId": "soze00105",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00107",
+                "contentLocalUri": "infae20160002.html",
+                "end": 29008,
+                "id": "par5",
+                "images": null,
+                "start": 18969,
+                "textId": "soze00107",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00109",
+                "contentLocalUri": "infae20160002.html",
+                "end": 35698,
+                "id": "par6",
+                "images": null,
+                "start": 29008,
+                "textId": "soze00109",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00110",
+                "contentLocalUri": "infae20160002.html",
+                "end": 39497,
+                "id": "par7",
+                "images": null,
+                "start": 35698,
+                "textId": "soze00110",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "14_billede.mp3",
+                "canBookmark": true,
+                "contentId": "soze00111",
+                "contentLocalUri": "infae20160002.html",
+                "end": 43367,
+                "id": "par8",
+                "images": null,
+                "start": 39497,
+                "textId": "soze00111",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:43.367"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:08:27.635"
+              ]
+            },
+            "smil": "s014.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "15_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00113",
+                "contentLocalUri": "infae20160002.html",
+                "end": 2310,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00113",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:02.310"
+              ],
+              "ncc:totalElapsedTime": [
+                "0:09:11.002"
+              ]
+            },
+            "smil": "s015.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00115",
+                "contentLocalUri": "infae20160002.html",
+                "end": 4045,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00115",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00119",
+                "contentLocalUri": "infae20160002.html",
+                "end": 5605,
+                "id": "par2",
+                "images": null,
+                "start": 4045,
+                "textId": "soze00119",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00120",
+                "contentLocalUri": "infae20160002.html",
+                "end": 8355,
+                "id": "par3",
+                "images": null,
+                "start": 5605,
+                "textId": "soze00120",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00121",
+                "contentLocalUri": "infae20160002.html",
+                "end": 11125,
+                "id": "par4",
+                "images": null,
+                "start": 8355,
+                "textId": "soze00121",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00122",
+                "contentLocalUri": "infae20160002.html",
+                "end": 14095,
+                "id": "par5",
+                "images": null,
+                "start": 11125,
+                "textId": "soze00122",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00124",
+                "contentLocalUri": "infae20160002.html",
+                "end": 16305,
+                "id": "par6",
+                "images": null,
+                "start": 14095,
+                "textId": "soze00124",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00125",
+                "contentLocalUri": "infae20160002.html",
+                "end": 20287,
+                "id": "par7",
+                "images": null,
+                "start": 16305,
+                "textId": "soze00125",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00126",
+                "contentLocalUri": "infae20160002.html",
+                "end": 23596,
+                "id": "par8",
+                "images": null,
+                "start": 20287,
+                "textId": "soze00126",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00127",
+                "contentLocalUri": "infae20160002.html",
+                "end": 27306,
+                "id": "par9",
+                "images": null,
+                "start": 23596,
+                "textId": "soze00127",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00129",
+                "contentLocalUri": "infae20160002.html",
+                "end": 29866,
+                "id": "par10",
+                "images": null,
+                "start": 27306,
+                "textId": "soze00129",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00130",
+                "contentLocalUri": "infae20160002.html",
+                "end": 33296,
+                "id": "par11",
+                "images": null,
+                "start": 29866,
+                "textId": "soze00130",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00131",
+                "contentLocalUri": "infae20160002.html",
+                "end": 36696,
+                "id": "par12",
+                "images": null,
+                "start": 33296,
+                "textId": "soze00131",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "16_regul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00132",
+                "contentLocalUri": "infae20160002.html",
+                "end": 42225,
+                "id": "par13",
+                "images": null,
+                "start": 36696,
+                "textId": "soze00132",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:00:42.225"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:09:13.312"
+              ]
+            },
+            "smil": "s016.smil"
+          },
+          {
+            "id": "main",
+            "items": [
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00134",
+                "contentLocalUri": "infae20160002.html",
+                "end": 4573,
+                "id": "par1",
+                "images": null,
+                "start": 0,
+                "textId": "soze00134",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00138",
+                "contentLocalUri": "infae20160002.html",
+                "end": 6502,
+                "id": "par2",
+                "images": null,
+                "start": 4573,
+                "textId": "soze00138",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00139",
+                "contentLocalUri": "infae20160002.html",
+                "end": 9222,
+                "id": "par3",
+                "images": null,
+                "start": 6502,
+                "textId": "soze00139",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00140",
+                "contentLocalUri": "infae20160002.html",
+                "end": 11812,
+                "id": "par4",
+                "images": null,
+                "start": 9222,
+                "textId": "soze00140",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00142",
+                "contentLocalUri": "infae20160002.html",
+                "end": 13372,
+                "id": "par5",
+                "images": null,
+                "start": 11812,
+                "textId": "soze00142",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00143",
+                "contentLocalUri": "infae20160002.html",
+                "end": 15271,
+                "id": "par6",
+                "images": null,
+                "start": 13372,
+                "textId": "soze00143",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00144",
+                "contentLocalUri": "infae20160002.html",
+                "end": 16991,
+                "id": "par7",
+                "images": null,
+                "start": 15271,
+                "textId": "soze00144",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00145",
+                "contentLocalUri": "infae20160002.html",
+                "end": 19231,
+                "id": "par8",
+                "images": null,
+                "start": 16991,
+                "textId": "soze00145",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00147",
+                "contentLocalUri": "infae20160002.html",
+                "end": 22761,
+                "id": "par9",
+                "images": null,
+                "start": 19231,
+                "textId": "soze00147",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00148",
+                "contentLocalUri": "infae20160002.html",
+                "end": 24381,
+                "id": "par10",
+                "images": null,
+                "start": 22761,
+                "textId": "soze00148",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00149",
+                "contentLocalUri": "infae20160002.html",
+                "end": 27221,
+                "id": "par11",
+                "images": null,
+                "start": 24381,
+                "textId": "soze00149",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00150",
+                "contentLocalUri": "infae20160002.html",
+                "end": 29941,
+                "id": "par12",
+                "images": null,
+                "start": 27221,
+                "textId": "soze00150",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00151",
+                "contentLocalUri": "infae20160002.html",
+                "end": 32560,
+                "id": "par13",
+                "images": null,
+                "start": 29941,
+                "textId": "soze00151",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00152",
+                "contentLocalUri": "infae20160002.html",
+                "end": 34960,
+                "id": "par14",
+                "images": null,
+                "start": 32560,
+                "textId": "soze00152",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00154",
+                "contentLocalUri": "infae20160002.html",
+                "end": 36770,
+                "id": "par15",
+                "images": null,
+                "start": 34960,
+                "textId": "soze00154",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00155",
+                "contentLocalUri": "infae20160002.html",
+                "end": 39480,
+                "id": "par16",
+                "images": null,
+                "start": 36770,
+                "textId": "soze00155",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00156",
+                "contentLocalUri": "infae20160002.html",
+                "end": 42230,
+                "id": "par17",
+                "images": null,
+                "start": 39480,
+                "textId": "soze00156",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00157",
+                "contentLocalUri": "infae20160002.html",
+                "end": 44880,
+                "id": "par18",
+                "images": null,
+                "start": 42230,
+                "textId": "soze00157",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00158",
+                "contentLocalUri": "infae20160002.html",
+                "end": 47629,
+                "id": "par19",
+                "images": null,
+                "start": 44880,
+                "textId": "soze00158",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00160",
+                "contentLocalUri": "infae20160002.html",
+                "end": 49900,
+                "id": "par20",
+                "images": null,
+                "start": 47629,
+                "textId": "soze00160",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00161",
+                "contentLocalUri": "infae20160002.html",
+                "end": 52589,
+                "id": "par21",
+                "images": null,
+                "start": 49900,
+                "textId": "soze00161",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00162",
+                "contentLocalUri": "infae20160002.html",
+                "end": 54929,
+                "id": "par22",
+                "images": null,
+                "start": 52589,
+                "textId": "soze00162",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00163",
+                "contentLocalUri": "infae20160002.html",
+                "end": 58053,
+                "id": "par23",
+                "images": null,
+                "start": 54929,
+                "textId": "soze00163",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00164",
+                "contentLocalUri": "infae20160002.html",
+                "end": 61483,
+                "id": "par24",
+                "images": null,
+                "start": 58053,
+                "textId": "soze00164",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00166",
+                "contentLocalUri": "infae20160002.html",
+                "end": 64853,
+                "id": "par25",
+                "images": null,
+                "start": 61483,
+                "textId": "soze00166",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00167",
+                "contentLocalUri": "infae20160002.html",
+                "end": 66853,
+                "id": "par26",
+                "images": null,
+                "start": 64853,
+                "textId": "soze00167",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00168",
+                "contentLocalUri": "infae20160002.html",
+                "end": 69403,
+                "id": "par27",
+                "images": null,
+                "start": 66853,
+                "textId": "soze00168",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00169",
+                "contentLocalUri": "infae20160002.html",
+                "end": 72093,
+                "id": "par28",
+                "images": null,
+                "start": 69403,
+                "textId": "soze00169",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00170",
+                "contentLocalUri": "infae20160002.html",
+                "end": 74402,
+                "id": "par29",
+                "images": null,
+                "start": 72093,
+                "textId": "soze00170",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00171",
+                "contentLocalUri": "infae20160002.html",
+                "end": 77142,
+                "id": "par30",
+                "images": null,
+                "start": 74402,
+                "textId": "soze00171",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00173",
+                "contentLocalUri": "infae20160002.html",
+                "end": 79362,
+                "id": "par31",
+                "images": null,
+                "start": 77142,
+                "textId": "soze00173",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00174",
+                "contentLocalUri": "infae20160002.html",
+                "end": 82172,
+                "id": "par32",
+                "images": null,
+                "start": 79362,
+                "textId": "soze00174",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00175",
+                "contentLocalUri": "infae20160002.html",
+                "end": 84602,
+                "id": "par33",
+                "images": null,
+                "start": 82172,
+                "textId": "soze00175",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00176",
+                "contentLocalUri": "infae20160002.html",
+                "end": 87222,
+                "id": "par34",
+                "images": null,
+                "start": 84602,
+                "textId": "soze00176",
+                "type": 0
+              },
+              {
+                "audioLocalUri": "17_irregul_r_tabel.mp3",
+                "canBookmark": true,
+                "contentId": "soze00177",
+                "contentLocalUri": "infae20160002.html",
+                "end": 105193,
+                "id": "par35",
+                "images": null,
+                "start": 87222,
+                "textId": "soze00177",
+                "type": 0
+              }
+            ],
+            "metadata": {
+              "dc:title": [
+                "INFÆ20160002"
+              ],
+              "dc:identifier": [
+                "DK-NOTA-INFÆ20160002"
+              ],
+              "dc:format": [
+                "Daisy 2.02"
+              ],
+              "ncc:generator": [
+                "Hindenburg ABC Studio 1.17.2066"
+              ],
+              "ncc:timeInThisSmil": [
+                "00:01:45.193"
+              ],
+              "ncc:totalElapsedTime": [
+                "00:09:55.537"
+              ]
+            },
+            "smil": "s017.smil"
+          }
+        ],
+        "resources": [
+          "01_brugerkomit_en_ved_nota_referat_af.mp3",
+          "infae20160002.html",
+          "02_til_stede.mp3",
+          "03_afbud.mp3",
+          "04_referent.mp3",
+          "05_dagsorden.mp3",
+          "06_ad_1_godkendelse_af_dagsorden.mp3",
+          "07_ad_2_notas_konomi_2016.mp3",
+          "08_ad_3_initiativer_opf_lgning_p.mp3",
+          "09_konklusion.mp3",
+          "10_ad_4_notas_ambassad_rnetv_rk.mp3",
+          "11_konklusion.mp3",
+          "12_ad_7_m_dedatoer_for_2016.mp3",
+          "13_ad_8_eventuelt.mp3",
+          "14_billede.mp3",
+          "images/logo.jpg",
+          "images/pagesscreensnapz002.jpg",
+          "15_tabel.mp3",
+          "16_regul_r_tabel.mp3",
+          "17_irregul_r_tabel.mp3"
+        ],
+        "title": "INFÆ20160002",
+        "totalTime": 701000
+      },
+      "volumeName": null
+    }
+  ]
+}

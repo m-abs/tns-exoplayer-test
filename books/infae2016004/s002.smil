@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:00:06.254" />
+    <meta name="ncc:timeInThisSmil" content="00:00:48.686" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="48.686s">
+      <par id="par1" endsync="last">
+        <text id="soze00007" src="INFAE20160002.html#soze00007" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=2.310s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00009" src="INFAE20160002.html#soze00009" />
+        <audio id="aud002" clip-begin="npt=2.310s" clip-end="npt=5.930s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="soze00011" src="INFAE20160002.html#soze00011" />
+        <audio id="aud003" clip-begin="npt=5.930s" clip-end="npt=9.270s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par4" endsync="last">
+        <text id="soze00013" src="INFAE20160002.html#soze00013" />
+        <audio id="aud004" clip-begin="npt=9.270s" clip-end="npt=13.308s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par5" endsync="last">
+        <text id="soze00015" src="INFAE20160002.html#soze00015" />
+        <audio id="aud005" clip-begin="npt=13.308s" clip-end="npt=18.608s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par6" endsync="last">
+        <text id="soze00017" src="INFAE20160002.html#soze00017" />
+        <audio id="aud006" clip-begin="npt=18.608s" clip-end="npt=21.598s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par7" endsync="last">
+        <text id="soze00019" src="INFAE20160002.html#soze00019" />
+        <audio id="aud007" clip-begin="npt=21.598s" clip-end="npt=26.777s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par8" endsync="last">
+        <text id="soze00021" src="INFAE20160002.html#soze00021" />
+        <audio id="aud008" clip-begin="npt=26.777s" clip-end="npt=30.027s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par9" endsync="last">
+        <text id="soze00022" src="INFAE20160002.html#soze00022" />
+        <audio id="aud009" clip-begin="npt=30.027s" clip-end="npt=32.837s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par10" endsync="last">
+        <text id="soze00023" src="INFAE20160002.html#soze00023" />
+        <audio id="aud010" clip-begin="npt=32.837s" clip-end="npt=35.767s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par11" endsync="last">
+        <text id="soze00024" src="INFAE20160002.html#soze00024" />
+        <audio id="aud011" clip-begin="npt=35.767s" clip-end="npt=40.006s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par12" endsync="last">
+        <text id="soze00025" src="INFAE20160002.html#soze00025" />
+        <audio id="aud012" clip-begin="npt=40.006s" clip-end="npt=44.716s" src="02_Til_stede.mp3" />
+      </par>
+      <par id="par13" endsync="last">
+        <text id="soze00026" src="INFAE20160002.html#soze00026" />
+        <audio id="aud013" clip-begin="npt=44.716s" clip-end="npt=48.686s" src="02_Til_stede.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

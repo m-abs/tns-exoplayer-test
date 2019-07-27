@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:07:40.456" />
+    <meta name="ncc:timeInThisSmil" content="00:00:08.959" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="8.959s">
+      <par id="par1" endsync="last">
+        <text id="soze00088" src="INFAE20160002.html#soze00088" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=2.310s" src="11_Konklusion.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00089" src="INFAE20160002.html#soze00089" />
+        <audio id="aud002" clip-begin="npt=2.310s" clip-end="npt=6.520s" src="11_Konklusion.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="soze00090" src="INFAE20160002.html#soze00090" />
+        <audio id="aud003" clip-begin="npt=6.520s" clip-end="npt=8.959s" src="11_Konklusion.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

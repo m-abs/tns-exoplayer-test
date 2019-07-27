@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:00:00.000" />
+    <meta name="ncc:timeInThisSmil" content="00:11:40.730" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <ref title="Brugerkomitéen ved Nota - Referat af 81. møde" src="s001.smil" id="smil001" />
+    <ref title="Til stede:" src="s002.smil" id="smil002" />
+    <ref title="Afbud:" src="s003.smil" id="smil003" />
+    <ref title="Referent:" src="s004.smil" id="smil004" />
+    <ref title="Dagsorden:" src="s005.smil" id="smil005" />
+    <ref title="Ad 1. Godkendelse af dagsorden" src="s006.smil" id="smil006" />
+    <ref title="Ad 2. Notas økonomi 2016-" src="s007.smil" id="smil007" />
+    <ref title="Ad 3. Initiativer - opfølgning på Brugerundersøgelsen 2014" src="s008.smil" id="smil008" />
+    <ref title="Konklusion:" src="s009.smil" id="smil009" />
+    <ref title="Ad 4. Notas Ambassadørnetværk" src="s010.smil" id="smil010" />
+    <ref title="Konklusion:" src="s011.smil" id="smil011" />
+    <ref title="Ad 7. Mødedatoer for 2016" src="s012.smil" id="smil012" />
+    <ref title="Ad 8. Eventuelt" src="s013.smil" id="smil013" />
+    <ref title="Billede" src="s014.smil" id="smil014" />
+    <ref title="Tabel" src="s015.smil" id="smil015" />
+    <ref title="regulær tabel" src="s016.smil" id="smil016" />
+    <ref title="irregulær tabel" src="s017.smil" id="smil017" />
+  </body>
+</smil>

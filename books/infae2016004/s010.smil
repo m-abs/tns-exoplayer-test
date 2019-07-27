@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:05:50.394" />
+    <meta name="ncc:timeInThisSmil" content="00:01:50.062" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="110.062s">
+      <par id="par1" endsync="last">
+        <text id="soze00081" src="INFAE20160002.html#soze00081" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=4.899s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00082" src="INFAE20160002.html#soze00082" />
+        <audio id="aud002" clip-begin="npt=4.899s" clip-end="npt=9.181s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="soze00083" src="INFAE20160002.html#soze00083" />
+        <audio id="aud003" clip-begin="npt=9.181s" clip-end="npt=40.499s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+      <par id="par4" endsync="last">
+        <text id="soze00084" src="INFAE20160002.html#soze00084" />
+        <audio id="aud004" clip-begin="npt=40.499s" clip-end="npt=65.263s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+      <par id="par5" endsync="last">
+        <text id="soze00085" src="INFAE20160002.html#soze00085" />
+        <audio id="aud005" clip-begin="npt=65.263s" clip-end="npt=77.462s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+      <par id="par6" endsync="last">
+        <text id="soze00086" src="INFAE20160002.html#soze00086" />
+        <audio id="aud006" clip-begin="npt=77.462s" clip-end="npt=110.062s" src="10_Ad_4_Notas_Ambassad_rnetv_rk.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

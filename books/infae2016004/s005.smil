@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="INFÆ20160002" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="DK-NOTA-INFÆ20160002" />
+    <meta name="ncc:totalElapsedTime" content="00:01:08.169" />
+    <meta name="ncc:timeInThisSmil" content="00:01:23.091" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.17.2066" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="83.091s">
+      <par id="par1" endsync="last">
+        <text id="soze00038" src="INFAE20160002.html#soze00038" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=1.960s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="soze00040" src="INFAE20160002.html#soze00040" />
+        <audio id="aud002" clip-begin="npt=1.960s" clip-end="npt=6.452s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par3" endsync="last">
+        <text id="soze00041" src="INFAE20160002.html#soze00041" />
+        <audio id="aud003" clip-begin="npt=6.452s" clip-end="npt=11.915s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par4" endsync="last">
+        <text id="soze00042" src="INFAE20160002.html#soze00042" />
+        <audio id="aud004" clip-begin="npt=11.915s" clip-end="npt=18.595s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par5" endsync="last">
+        <text id="soze00043" src="INFAE20160002.html#soze00043" />
+        <audio id="aud005" clip-begin="npt=18.595s" clip-end="npt=22.745s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par6" endsync="last">
+        <text id="soze00044" src="INFAE20160002.html#soze00044" />
+        <audio id="aud006" clip-begin="npt=22.745s" clip-end="npt=26.614s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par7" endsync="last">
+        <text id="soze00046" src="INFAE20160002.html#soze00046" />
+        <audio id="aud007" clip-begin="npt=26.614s" clip-end="npt=32.324s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par8" endsync="last">
+        <text id="soze00048" src="INFAE20160002.html#soze00048" />
+        <audio id="aud008" clip-begin="npt=32.324s" clip-end="npt=36.292s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par9" endsync="last">
+        <text id="soze00049" src="INFAE20160002.html#soze00049" />
+        <audio id="aud009" clip-begin="npt=36.292s" clip-end="npt=40.632s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par10" endsync="last">
+        <text id="soze00050" src="INFAE20160002.html#soze00050" />
+        <audio id="aud010" clip-begin="npt=40.632s" clip-end="npt=44.744s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par11" endsync="last">
+        <text id="soze00051" src="INFAE20160002.html#soze00051" />
+        <audio id="aud011" clip-begin="npt=44.744s" clip-end="npt=48.173s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par12" endsync="last">
+        <text id="soze00053" src="INFAE20160002.html#soze00053" />
+        <audio id="aud012" clip-begin="npt=48.173s" clip-end="npt=52.893s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par13" endsync="last">
+        <text id="soze00054" src="INFAE20160002.html#soze00054" />
+        <audio id="aud013" clip-begin="npt=52.893s" clip-end="npt=56.073s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par14" endsync="last">
+        <text id="soze00056" src="INFAE20160002.html#soze00056" />
+        <audio id="aud014" clip-begin="npt=56.073s" clip-end="npt=65.372s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par15" endsync="last">
+        <text id="soze00057" src="INFAE20160002.html#soze00057" />
+        <audio id="aud015" clip-begin="npt=65.372s" clip-end="npt=79.912s" src="05_Dagsorden.mp3" />
+      </par>
+      <par id="par16" endsync="last">
+        <text id="soze00058" src="INFAE20160002.html#soze00058" />
+        <audio id="aud016" clip-begin="npt=79.912s" clip-end="npt=83.091s" src="05_Dagsorden.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>
