@@ -1,28 +1,19 @@
 {
-    "compilerOptions": {
-        "skipLibCheck": true,
-        "incremental": true,
-        "module": "commonjs",
-        "target": "es5",
-        "experimentalDecorators": true,
-        "emitDecoratorMetadata": true,
-        "noEmitHelpers": true,
-        "noEmitOnError": true,
-        "lib": [
-            "es6",
-            "dom",
-            "es2015.iterable",
-            "es2017.object"
-        ],
-        "baseUrl": ".",
-        "paths": {
-            "~/*": [
-                "src/*"
-            ]
-        }
-    },
-    "exclude": [
-        "node_modules",
-        "platforms"
-    ]
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "skipLibCheck": true,
+    "incremental": true,
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noEmitHelpers": true,
+    "noEmitOnError": true,
+    "lib": ["es6", "dom", "es2015.iterable", "es2017.object"],
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["src/*"]
+    }
+  },
+  "exclude": ["node_modules", "platforms"]
 }

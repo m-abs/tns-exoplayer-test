@@ -26,18 +26,26 @@
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.5.0",
     "tns-core-modules": "6.0.1",
+    "uuid": "^3.3.2",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
     "@angular/compiler-cli": "~8.0.0",
     "@ngtools/webpack": "~8.0.0",
+    "http-server": "^0.11.1",
     "nativescript-dev-webpack": "1.0.1",
+    "npm-run-all": "^4.1.5",
     "prettier": "^1.18.2",
     "prettier-check": "^2.0.0",
     "tns-platform-declarations": "6.0.1",
     "tslint": "^5.18.0",
     "tslint-no-circular-imports": "^0.7.0",
     "typescript": "3.4.5"
+  },
+  "scripts": {
+    "tns:android": "tns debug android",
+    "run:android": "npm-run-all --parallel serve-books tns:android",
+    "serve-books": "hs books"
   },
   "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
   "readme": "NativeScript Application"
